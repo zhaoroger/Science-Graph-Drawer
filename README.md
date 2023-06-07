@@ -14,3 +14,6 @@ Project from 2020-2021 for CS IB. Users can draw graphs with more freedom than o
 
 ## How to run
 You'll need a Java runtime environment. Download and run executable.
+
+## To view code
+IA -> src/scienceGraphDrawer
